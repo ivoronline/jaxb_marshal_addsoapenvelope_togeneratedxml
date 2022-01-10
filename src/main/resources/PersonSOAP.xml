@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+  <SOAP-ENV:Header/>
+  <SOAP-ENV:Body>
+    <person xmlns="http://www.ivoronline.com">
+      <id>1</id>
+      <name>John</name>
+      <age>20</age>
+    </person>
+  </SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
